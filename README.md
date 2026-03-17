@@ -15,14 +15,10 @@
 
 ## About Me
 
-I'm a Full Stack Developer who works on both web and mobile projects. I build frontends with **React**, mobile apps with **Flutter**, and connect them to backends and databases through APIs.
+Full Stack Developer based in the Philippines. I work on web and mobile projects using React, Flutter, and various backend stacks.
 
-I like working across the whole stack — I pick whatever fits the project best, keep my code clean, and make sure what I ship actually works well.
-
-- 🔭 Currently building — web apps, mobile apps, and backend APIs
-- 🌱 Always exploring new frameworks and best practices
-- 💬 Open to collaboration on interesting projects
-- 📍 Based in the Philippines
+- Currently building web apps, mobile apps, and backend APIs
+- Open to collaboration on interesting projects
 
 ---
 
