@@ -3,7 +3,7 @@
 # Gian F.
 ### Full Stack Developer
 
-*Building scalable web and mobile solutions — from pixel to production.*
+*Full Stack Developer who builds web and mobile apps.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-GianF28-181717?style=flat-square&logo=github)](https://github.com/GianF28)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/GianF28)
@@ -15,9 +15,9 @@
 
 ## About Me
 
-I'm a Full Stack Developer with hands-on experience across web and mobile platforms. I design and build end-to-end solutions — from crafting responsive frontends with **React** to delivering cross-platform mobile apps with **Flutter**, backed by robust APIs and well-structured databases.
+I'm a Full Stack Developer who works on both web and mobile projects. I build frontends with **React**, mobile apps with **Flutter**, and connect them to backends and databases through APIs.
 
-I enjoy working across the full stack: picking the right tool for the job, writing clean maintainable code, and delivering products that are both functional and polished.
+I like working across the whole stack — I pick whatever fits the project best, keep my code clean, and make sure what I ship actually works well.
 
 - 🔭 Currently building — web apps, mobile apps, and backend APIs
 - 🌱 Always exploring new frameworks and best practices
@@ -51,6 +51,8 @@ I enjoy working across the full stack: picking the right tool for the job, writi
 ### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
@@ -88,17 +90,17 @@ I enjoy working across the full stack: picking the right tool for the job, writi
 
 ## Experience Highlights
 
-- **Web Development** — Full-stack web apps using React frontends with Laravel/PHP, .NET, or Python backends
-- **Mobile Development** — Cross-platform mobile applications built with Flutter and Dart
-- **API Design** — RESTful API development and integration across multiple tech stacks
-- **Database Management** — Relational database design and optimization with MySQL and PostgreSQL
-- **Multi-language Proficiency** — Comfortable switching across JavaScript, TypeScript, Python, PHP, Java, Kotlin, and C#
+- **Web Development** — React frontends hooked up to Laravel/PHP, .NET, or Python backends
+- **Mobile Development** — Mobile apps for iOS and Android using Flutter and Dart
+- **APIs** — Built and consumed REST APIs across different stacks
+- **Databases** — Worked with MySQL, PostgreSQL, Supabase, and Firebase across various projects
+- **Languages** — Used JavaScript, TypeScript, Python, PHP, Java, Kotlin, and C# across different projects
 
 ---
 
 <div align="center">
 
-*Thanks for visiting my profile — feel free to explore my repositories or reach out!*
+*Feel free to look around or get in touch!*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GianF28&color=0e75b6&style=flat-square)
 
